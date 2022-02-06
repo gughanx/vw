@@ -3,6 +3,7 @@
 
 #include <cmath>
 #include <cstring>
+#include <iostream>
 
 #include "Concepts.hpp"
 #include "Expressions/Vector.hpp"
